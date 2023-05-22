@@ -1,0 +1,21 @@
+.carousel-item {
+
+    height: 30rem;
+}
+
+body{
+    background-color: darkgrey;
+}
+
+
+.col-md-4{
+    width: 30%;
+    margin: 15%;
+}
+
+.xuxu {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+
+}

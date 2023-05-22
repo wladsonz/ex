@@ -1,0 +1,11 @@
+.gato{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: gray;
+}
+input{
+    width: 300px;
+}
